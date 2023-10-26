@@ -64,7 +64,7 @@ def create_peft_config(model):
         r=8,
         lora_alpha=32,
         lora_dropout=0.05,
-        target_modules=["query_key_value"],
+        #target_modules=["query_key_value"],
     )
 
     # prepare int-8 model for training
