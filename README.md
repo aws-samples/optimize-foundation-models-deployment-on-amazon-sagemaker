@@ -1,11 +1,6 @@
-## My Project
+## AIM351 - Optimize foundation model deployment on Amazon SageMaker
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+WIP
 
 ## Security
 
