@@ -1,5 +1,6 @@
 ## AIM351 - Optimize foundation model deployment on Amazon SageMaker
 
+**Workshop Studio link:** https://catalog.us-east-1.prod.workshops.aws/workshops/869395e0-778f-4df0-9465-73ef126a39e8 
 ### Deploy large foundation models on Amazon SageMaker
 
 Hosting foundation models(FMs) can be challenging. Larger models are often more accurate because they include billions of parameters, but their size can also result in slower inference latency or decreased throughput. Hosting an FM can require more accelerator memory and optimized kernels to achieve the best performance.
